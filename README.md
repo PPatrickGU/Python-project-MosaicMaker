@@ -1,4 +1,4 @@
-# Python-projet  
+# Python-projet_MosaicMaker  
 
 Pillow library is used.  
 
